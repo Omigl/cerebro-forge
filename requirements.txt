@@ -1,0 +1,8 @@
+streamlit
+pandas
+sqlalchemy
+python-dotenv
+matplotlib
+seaborn
+scikit-learn
+requests
